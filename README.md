@@ -114,25 +114,6 @@ A demonstration of the automation workflow is available on LinkedIn:
 
 The demonstration shows how property listing information can be collected and transferred to a Google Form automatically, reducing repetitive manual data-entry work.
 
-## Screenshots
-
-Add screenshots of the project workflow below.
-
-### Web Scraping
-
-![Web Scraping](screenshots/web-scraping.png)
-
-### Google Form Automation
-
-![Google Form Automation](screenshots/google-form.png)
-
-### Google Sheets
-
-![Google Sheets](screenshots/google-sheets.png)
-
-### Automation in Action
-
-![Automation](screenshots/automation.png)
 
 ## Learning Outcomes
 
